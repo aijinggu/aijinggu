@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**aijinggu/aijinggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aijing Gu
 
-Here are some ideas to get you started:
+Doctoral Student  
+Harbin Institute of Technology, Shenzhen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a doctoral student at Harbin Institute of Technology, Shenzhen. My research interests focus on artificial intelligence security and privacy protection.
+
+## Research Interests
+
+- Artificial Intelligence Security
+- Large Language Models
+- Multimodal Learning
+- Backdoor Attacks and Defenses
+- Privacy-Preserving Machine Learning
+
+## Academic Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=aIsxV5MAAAAJ)
+
+## Contact
+
+- Email: aijinggu@stu.hit.edu.cn
+- Institution: Harbin Institute of Technology, Shenzhen
