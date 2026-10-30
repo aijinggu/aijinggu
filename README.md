@@ -1,7 +1,7 @@
 
 # Aijing Gu
 
-Doctoral Student  
+PHD Student  
 Harbin Institute of Technology, Shenzhen
 
 ## About Me
